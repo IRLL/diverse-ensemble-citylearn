@@ -1,4 +1,4 @@
-observation features
+raw observation features
 {0: 'month',
  1: 'day_type',
  2: 'hour',
