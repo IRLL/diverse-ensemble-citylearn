@@ -1,0 +1,7 @@
+torch==1.12.0
+scikit-learn==1.0.2
+xgboost==1.6.2
+numba
+wandb==0.12.6
+simplejson
+gym=0.24.1
